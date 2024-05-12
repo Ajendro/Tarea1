@@ -62,8 +62,8 @@
   }
   .contenedor1 > div {
     display: inline-flex;
-    align-items: center; /* Alinear elementos verticalmente */
-    margin-right: 20px; /* Espacio entre cada par de imagen y texto */
+    align-items: center; 
+    margin-right: 20px; 
 }
 
 .icono {
